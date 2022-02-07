@@ -1,0 +1,420 @@
+Our adventure starts now!
+----------------------------------------
+The fight between Meowth(41) and Eevee(39) starts!
+Eevee failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 39!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 39!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 34!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 34!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 33!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 33!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 28!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 28!
+Eevee failed to break the defense!
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 28!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 41!
+The pokemon Eevee is now at 27!
+Eevee hit Meowth for 5 with Ability1
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 27!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 27!
+Eevee failed to break the defense!
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 27!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 26!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 21!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 36!
+The pokemon Eevee is now at 21!
+Eevee hit Meowth for 5 with Ability1
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 21!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 20!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 15!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 15!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 14!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 14!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 9!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 8!
+Eevee failed to break the defense!
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 8!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 8!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 3!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 31!
+The pokemon Eevee is now at 2!
+Eevee hit Meowth for 5 with Ability1
+The pokemon Meowth is now at 26!
+The pokemon Eevee is now at 2!
+Meowth failed to break the defense!
+The pokemon Meowth is now at 26!
+The pokemon Eevee is now at 2!
+Eevee failed to break the defense!
+The pokemon Meowth is now at 26!
+The pokemon Eevee is now at 2!
+Meowth hit Eevee for 1 with Ability2
+The pokemon Meowth is now at 26!
+The pokemon Eevee is now at 1!
+Meowth hit Eevee for 5 with Ability1
+The pokemon Meowth is now at 26!
+The pokemon Eevee is now at -4!
+The winner is Meowth
+----------------------------------------
+Stages 2 starts!
+----------------------------------------
+The fight between Psyduck(45) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at 10!
+Psyduck hit Neutrel1 for 7 with attack
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at 3!
+Neutrel1 failed to break the defense!
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at 3!
+Psyduck hit Neutrel1 for 2 with Ability1
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at 1!
+Neutrel1 failed to break the defense!
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at 1!
+Psyduck hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Psyduck is now at 45!
+The pokemon Neutrel1 is now at -1!
+The winner is Psyduck
+----------------------------------------
+The fight between Pikachu(38) and Neutrel2(20) starts!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 38!
+The pokemon Neutrel2 is now at 16!
+Pikachu hit Neutrel2 for 5 with attack
+The pokemon Pikachu is now at 38!
+The pokemon Neutrel2 is now at 11!
+Neutrel2 hit Pikachu for 1 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Neutrel2 is now at 11!
+Pikachu hit Neutrel2 for 5 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Neutrel2 is now at 6!
+Neutrel2 hit Pikachu for 1 with attack
+The pokemon Pikachu is now at 36!
+The pokemon Neutrel2 is now at 6!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 36!
+The pokemon Neutrel2 is now at 2!
+Pikachu hit Neutrel2 for 5 with attack
+The pokemon Pikachu is now at 36!
+The pokemon Neutrel2 is now at -3!
+The winner is Pikachu
+----------------------------------------
+The fight between Psyduck(46) and Neutrel2(20) starts!
+Psyduck hit Neutrel2 for 2 with Ability1
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 18!
+Neutrel2 failed to break the defense!
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 18!
+Psyduck hit Neutrel2 for 8 with attack
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 10!
+Psyduck hit Neutrel2 for 8 with attack
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 2!
+Neutrel2 failed to break the defense!
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at 2!
+Psyduck hit Neutrel2 for 8 with attack
+The pokemon Psyduck is now at 46!
+The pokemon Neutrel2 is now at -6!
+The winner is Psyduck
+----------------------------------------
+The fight between Pikachu(39) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 39!
+The pokemon Neutrel1 is now at 6!
+Pikachu hit Neutrel1 for 6 with attack
+The pokemon Pikachu is now at 39!
+The pokemon Neutrel1 is now at 0!
+The winner is Pikachu
+----------------------------------------
+The fight between Psyduck(47) and Pikachu(40) starts!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 46!
+The pokemon Pikachu is now at 40!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 42!
+The pokemon Pikachu is now at 40!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 36!
+The pokemon Pikachu is now at 40!
+Psyduck hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Psyduck is now at 36!
+The pokemon Pikachu is now at 38!
+Psyduck hit Pikachu for 5 with attack
+The pokemon Psyduck is now at 36!
+The pokemon Pikachu is now at 33!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 30!
+The pokemon Pikachu is now at 33!
+Psyduck hit Pikachu for 5 with attack
+The pokemon Psyduck is now at 30!
+The pokemon Pikachu is now at 28!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 26!
+The pokemon Pikachu is now at 28!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 20!
+The pokemon Pikachu is now at 28!
+Psyduck hit Pikachu for 5 with attack
+The pokemon Psyduck is now at 20!
+The pokemon Pikachu is now at 23!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 19!
+The pokemon Pikachu is now at 23!
+Psyduck hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Psyduck is now at 19!
+The pokemon Pikachu is now at 21!
+Psyduck hit Pikachu for 2 with Ability1
+The pokemon Psyduck is now at 19!
+The pokemon Pikachu is now at 19!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 18!
+The pokemon Pikachu is now at 19!
+Psyduck hit Pikachu for 5 with attack
+The pokemon Psyduck is now at 18!
+The pokemon Pikachu is now at 14!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 14!
+The pokemon Pikachu is now at 14!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 13!
+The pokemon Pikachu is now at 14!
+Psyduck hit Pikachu for 2 with Ability1
+The pokemon Psyduck is now at 13!
+The pokemon Pikachu is now at 12!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 12!
+The pokemon Pikachu is now at 12!
+Psyduck hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Psyduck is now at 12!
+The pokemon Pikachu is now at 10!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 8!
+The pokemon Pikachu is now at 10!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 7!
+The pokemon Pikachu is now at 10!
+Psyduck hit Pikachu for 2 with Ability1
+The pokemon Psyduck is now at 7!
+The pokemon Pikachu is now at 8!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 1!
+The pokemon Pikachu is now at 8!
+Psyduck hit Pikachu for 5 with attack
+The pokemon Psyduck is now at 1!
+The pokemon Pikachu is now at 3!
+Pikachu hit Psyduck for 1 with attack
+The pokemon Psyduck is now at 0!
+The pokemon Pikachu is now at 3!
+The winner is Pikachu
+----------------------------------------
+Stages 3 starts!
+----------------------------------------
+The fight between Charmander(60) and Neutrel2(20) starts!
+Charmander hit Neutrel2 for 19 with attack
+The pokemon Charmander is now at 60!
+The pokemon Neutrel2 is now at 1!
+Neutrel2 failed to break the defense!
+The pokemon Charmander is now at 60!
+The pokemon Neutrel2 is now at 1!
+Charmander hit Neutrel2 for 7 with Ability2
+The pokemon Charmander is now at 60!
+The pokemon Neutrel2 is now at -6!
+The winner is Charmander
+----------------------------------------
+The fight between Vulpix(47) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Vulpix is now at 47!
+The pokemon Neutrel1 is now at 10!
+Vulpix hit Neutrel1 for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 47!
+The pokemon Neutrel1 is now at 2!
+Vulpix hit Neutrel1 for 21 with attack
+The pokemon Vulpix is now at 47!
+The pokemon Neutrel1 is now at -19!
+The winner is Vulpix
+----------------------------------------
+The fight between Charmander(61) and Neutrel2(20) starts!
+Charmander hit Neutrel2 for 7 with Ability2
+The pokemon Charmander is now at 61!
+The pokemon Neutrel2 is now at 13!
+Neutrel2 failed to break the defense!
+The pokemon Charmander is now at 61!
+The pokemon Neutrel2 is now at 13!
+Charmander hit Neutrel2 for 20 with attack
+The pokemon Charmander is now at 61!
+The pokemon Neutrel2 is now at -7!
+The winner is Charmander
+----------------------------------------
+The fight between Vulpix(48) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 48!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 22 with attack
+The pokemon Vulpix is now at 48!
+The pokemon Neutrel1 is now at -14!
+The winner is Vulpix
+----------------------------------------
+The fight between Charmander(62) and Vulpix(49) starts!
+Vulpix hit Charmander for 10 with attack
+The pokemon Charmander is now at 52!
+The pokemon Vulpix is now at 49!
+Charmander hit Vulpix for 7 with Ability2
+The pokemon Charmander is now at 52!
+The pokemon Vulpix is now at 42!
+Vulpix hit Charmander for 10 with attack
+The pokemon Charmander is now at 42!
+The pokemon Vulpix is now at 42!
+Charmander hit Vulpix for 8 with attack
+The pokemon Charmander is now at 42!
+The pokemon Vulpix is now at 34!
+Vulpix hit Charmander for 2 with Ability2
+The pokemon Charmander is now at 40!
+The pokemon Vulpix is now at 34!
+Charmander hit Vulpix for 8 with attack
+The pokemon Charmander is now at 40!
+The pokemon Vulpix is now at 26!
+Vulpix hit Charmander for 8 with Ability1 and stuns him!
+The pokemon Charmander is now at 32!
+The pokemon Vulpix is now at 26!
+Vulpix hit Charmander for 10 with attack
+The pokemon Charmander is now at 22!
+The pokemon Vulpix is now at 26!
+Charmander hit Vulpix for 7 with Ability2
+The pokemon Charmander is now at 22!
+The pokemon Vulpix is now at 19!
+Vulpix hit Charmander for 10 with attack
+The pokemon Charmander is now at 12!
+The pokemon Vulpix is now at 19!
+Charmander hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Charmander is now at 12!
+The pokemon Vulpix is now at 15!
+Vulpix hit Charmander for 2 with Ability2
+The pokemon Charmander is now at 10!
+The pokemon Vulpix is now at 15!
+Vulpix hit Charmander for 10 with attack
+The pokemon Charmander is now at 0!
+The pokemon Vulpix is now at 15!
+The winner is Vulpix
+----------------------------------------
+Stages 4 starts!
+----------------------------------------
+The fight between Psyduck(47) and Pikachu(41) starts!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 43!
+The pokemon Pikachu is now at 41!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 37!
+The pokemon Pikachu is now at 41!
+Psyduck hit Pikachu for 4 with attack
+The pokemon Psyduck is now at 37!
+The pokemon Pikachu is now at 37!
+Pikachu hit Psyduck for 2 with attack
+The pokemon Psyduck is now at 35!
+The pokemon Pikachu is now at 37!
+Psyduck hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Psyduck is now at 35!
+The pokemon Pikachu is now at 35!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 31!
+The pokemon Pikachu is now at 35!
+Pikachu hit Psyduck for 2 with attack
+The pokemon Psyduck is now at 29!
+The pokemon Pikachu is now at 35!
+Psyduck hit Pikachu for 4 with attack
+The pokemon Psyduck is now at 29!
+The pokemon Pikachu is now at 31!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 23!
+The pokemon Pikachu is now at 31!
+Psyduck hit Pikachu for 4 with attack
+The pokemon Psyduck is now at 23!
+The pokemon Pikachu is now at 27!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 19!
+The pokemon Pikachu is now at 27!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at 13!
+The pokemon Pikachu is now at 27!
+Psyduck hit Pikachu for 4 with attack
+The pokemon Psyduck is now at 13!
+The pokemon Pikachu is now at 23!
+Pikachu hit Psyduck for 2 with attack
+The pokemon Psyduck is now at 11!
+The pokemon Pikachu is now at 23!
+Pikachu hit Psyduck for 4 with Ability2 and stuns him!
+The pokemon Psyduck is now at 7!
+The pokemon Pikachu is now at 23!
+Pikachu hit Psyduck for 2 with attack
+The pokemon Psyduck is now at 5!
+The pokemon Pikachu is now at 23!
+Psyduck hit Pikachu for 4 with attack
+The pokemon Psyduck is now at 5!
+The pokemon Pikachu is now at 19!
+Pikachu hit Psyduck for 2 with attack
+The pokemon Psyduck is now at 3!
+The pokemon Pikachu is now at 19!
+Psyduck hit Pikachu for 2 with Ability1
+The pokemon Psyduck is now at 3!
+The pokemon Pikachu is now at 17!
+Pikachu hit Psyduck for 6 with Ability1
+The pokemon Psyduck is now at -3!
+The pokemon Pikachu is now at 17!
+The winner is Pikachu
+----------------------------------------
+SadPepe(30) with Pikachu WON THE ADVENTURE!

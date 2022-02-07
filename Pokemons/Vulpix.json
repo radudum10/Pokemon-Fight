@@ -1,0 +1,22 @@
+{
+  "name": "Vulpix",
+  "hp": 36,
+  "attack": 5,
+  "specialAttack": 0,
+  "def": 2,
+  "specialDef": 4,
+  "abilities": [
+    {
+      "dmg": 8,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 6
+    },
+    {
+      "dmg": 2,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 7
+    }
+  ]
+}

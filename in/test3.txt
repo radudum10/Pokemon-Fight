@@ -1,0 +1,54 @@
+[
+  {
+    "name": "AttackerPepe",
+    "age": 20,
+    "bag": [
+      "Bulbasaur",
+      "Vulpix",
+      "Jigglypuff"
+    ],
+    "items": [
+      [
+        "ward",
+        "vitamins",
+        "sword"
+      ],
+      [
+        "sword",
+        "vitamins",
+        "christmasTree"
+      ],
+      [
+        "vitamins",
+        "christmasTree",
+        "sword"
+      ]
+    ]
+  },
+  {
+    "name": "DefenderPepe",
+    "age": 30,
+    "bag": [
+      "Snorlax",
+      "Squirtle",
+      "Charmander"
+    ],
+    "items": [
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ],
+      [
+        "shield",
+        "vest",
+        "christmasTree"
+      ],
+      [
+        "shield",
+        "vest",
+        "christmasTree"
+      ]
+    ]
+  }
+]

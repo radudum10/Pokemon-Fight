@@ -1,0 +1,639 @@
+Our adventure starts now!
+----------------------------------------
+The fight between Bulbasaur(45) and Neutrel1(10) starts!
+Bulbasaur hit Neutrel1 for 6 with Ability1
+The pokemon Bulbasaur is now at 45!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Bulbasaur is now at 45!
+The pokemon Neutrel1 is now at 4!
+Bulbasaur hit Neutrel1 for 5 with attack
+The pokemon Bulbasaur is now at 45!
+The pokemon Neutrel1 is now at -1!
+The winner is Bulbasaur
+----------------------------------------
+The fight between Snorlax(76) and Neutrel2(20) starts!
+Snorlax dodged Neutrel2 attack
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 20!
+Snorlax hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 16!
+Snorlax hit Neutrel2 for 6 with attack
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 10!
+Snorlax hit Neutrel2 for 6 with attack
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 4!
+Snorlax dodged Neutrel2 attack
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at 4!
+Snorlax hit Neutrel2 for 6 with attack
+The pokemon Snorlax is now at 76!
+The pokemon Neutrel2 is now at -2!
+The winner is Snorlax
+----------------------------------------
+The fight between Bulbasaur(46) and Neutrel2(20) starts!
+Bulbasaur hit Neutrel2 for 5 with Ability2
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 15!
+Neutrel2 failed to break the defense!
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 15!
+Bulbasaur hit Neutrel2 for 6 with attack
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 9!
+Neutrel2 failed to break the defense!
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 9!
+Bulbasaur hit Neutrel2 for 6 with Ability1
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 3!
+Neutrel2 failed to break the defense!
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at 3!
+Bulbasaur hit Neutrel2 for 6 with attack
+The pokemon Bulbasaur is now at 46!
+The pokemon Neutrel2 is now at -3!
+The winner is Bulbasaur
+----------------------------------------
+The fight between Snorlax(77) and Neutrel1(10) starts!
+Snorlax hit Neutrel1 for 4 with Ability1 and stuns him!
+The pokemon Snorlax is now at 77!
+The pokemon Neutrel1 is now at 6!
+Snorlax hit Neutrel1 for 7 with attack
+The pokemon Snorlax is now at 77!
+The pokemon Neutrel1 is now at -1!
+The winner is Snorlax
+----------------------------------------
+The fight between Bulbasaur(47) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Bulbasaur is now at 47!
+The pokemon Neutrel1 is now at 10!
+Bulbasaur hit Neutrel1 for 6 with Ability1
+The pokemon Bulbasaur is now at 47!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Bulbasaur is now at 47!
+The pokemon Neutrel1 is now at 4!
+Bulbasaur hit Neutrel1 for 7 with attack
+The pokemon Bulbasaur is now at 47!
+The pokemon Neutrel1 is now at -3!
+The winner is Bulbasaur
+----------------------------------------
+The fight between Snorlax(78) and Neutrel2(20) starts!
+Snorlax hit Neutrel2 for 8 with attack
+The pokemon Snorlax is now at 78!
+The pokemon Neutrel2 is now at 12!
+Snorlax dodged Neutrel2 attack
+The pokemon Snorlax is now at 78!
+The pokemon Neutrel2 is now at 12!
+Snorlax hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Snorlax is now at 78!
+The pokemon Neutrel2 is now at 8!
+Snorlax hit Neutrel2 for 8 with attack
+The pokemon Snorlax is now at 78!
+The pokemon Neutrel2 is now at 0!
+The winner is Snorlax
+----------------------------------------
+The fight between Bulbasaur(48) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Bulbasaur is now at 48!
+The pokemon Neutrel1 is now at 10!
+Bulbasaur hit Neutrel1 for 6 with Ability1
+The pokemon Bulbasaur is now at 48!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Bulbasaur is now at 48!
+The pokemon Neutrel1 is now at 4!
+Bulbasaur hit Neutrel1 for 8 with attack
+The pokemon Bulbasaur is now at 48!
+The pokemon Neutrel1 is now at -4!
+The winner is Bulbasaur
+----------------------------------------
+The fight between Snorlax(79) and Neutrel2(20) starts!
+Snorlax hit Neutrel2 for 9 with attack
+The pokemon Snorlax is now at 79!
+The pokemon Neutrel2 is now at 11!
+Neutrel2 failed to break the defense!
+The pokemon Snorlax is now at 79!
+The pokemon Neutrel2 is now at 11!
+Snorlax hit Neutrel2 for 9 with attack
+The pokemon Snorlax is now at 79!
+The pokemon Neutrel2 is now at 2!
+Neutrel2 failed to break the defense!
+The pokemon Snorlax is now at 79!
+The pokemon Neutrel2 is now at 2!
+Snorlax hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Snorlax is now at 79!
+The pokemon Neutrel2 is now at -2!
+The winner is Snorlax
+----------------------------------------
+The fight between Bulbasaur(49) and Snorlax(80) starts!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 46!
+The pokemon Snorlax is now at 80!
+Bulbasaur failed to break the defense!
+The pokemon Bulbasaur is now at 46!
+The pokemon Snorlax is now at 80!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 43!
+The pokemon Snorlax is now at 80!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 43!
+The pokemon Snorlax is now at 80!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 39!
+The pokemon Snorlax is now at 80!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 36!
+The pokemon Snorlax is now at 80!
+Bulbasaur failed to break the defense!
+The pokemon Bulbasaur is now at 36!
+The pokemon Snorlax is now at 80!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 33!
+The pokemon Snorlax is now at 80!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 33!
+The pokemon Snorlax is now at 80!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 30!
+The pokemon Snorlax is now at 80!
+Bulbasaur hit Snorlax for 6 with Ability1
+The pokemon Bulbasaur is now at 30!
+The pokemon Snorlax is now at 74!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 26!
+The pokemon Snorlax is now at 74!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 23!
+The pokemon Snorlax is now at 74!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 23!
+The pokemon Snorlax is now at 74!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 20!
+The pokemon Snorlax is now at 74!
+Bulbasaur hit Snorlax for 6 with Ability1
+The pokemon Bulbasaur is now at 20!
+The pokemon Snorlax is now at 68!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 16!
+The pokemon Snorlax is now at 68!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 13!
+The pokemon Snorlax is now at 68!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 13!
+The pokemon Snorlax is now at 68!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 10!
+The pokemon Snorlax is now at 68!
+Bulbasaur failed to break the defense!
+The pokemon Bulbasaur is now at 10!
+The pokemon Snorlax is now at 68!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 6!
+The pokemon Snorlax is now at 68!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 3!
+The pokemon Snorlax is now at 68!
+Bulbasaur hit Snorlax for 6 with Ability1
+The pokemon Bulbasaur is now at 3!
+The pokemon Snorlax is now at 62!
+Snorlax hit Bulbasaur for 3 with attack
+The pokemon Bulbasaur is now at 0!
+The pokemon Snorlax is now at 62!
+The winner is Snorlax
+----------------------------------------
+Stages 2 starts!
+----------------------------------------
+The fight between Vulpix(52) and Neutrel2(20) starts!
+Vulpix hit Neutrel2 for 2 with Ability2
+The pokemon Vulpix is now at 52!
+The pokemon Neutrel2 is now at 18!
+Neutrel2 failed to break the defense!
+The pokemon Vulpix is now at 52!
+The pokemon Neutrel2 is now at 18!
+Vulpix hit Neutrel2 for 26 with attack
+The pokemon Vulpix is now at 52!
+The pokemon Neutrel2 is now at -8!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(70) and Neutrel1(10) starts!
+Squirtle hit Neutrel1 for 2 with attack
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 8!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 8!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 6!
+Squirtle hit Neutrel1 for 2 with attack
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 4!
+Squirtle hit Neutrel1 for 2 with attack
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 2!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at 2!
+Squirtle hit Neutrel1 for 4 with Ability1
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel1 is now at -2!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(53) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 53!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 27 with attack
+The pokemon Vulpix is now at 53!
+The pokemon Neutrel1 is now at -19!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(71) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 18!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 14!
+Squirtle hit Neutrel2 for 3 with attack
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 11!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 11!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 7!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 7!
+Squirtle hit Neutrel2 for 3 with attack
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 4!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 4!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 71!
+The pokemon Neutrel2 is now at 0!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(54) and Neutrel2(20) starts!
+Vulpix hit Neutrel2 for 2 with Ability2
+The pokemon Vulpix is now at 54!
+The pokemon Neutrel2 is now at 18!
+Vulpix hit Neutrel2 for 28 with attack
+The pokemon Vulpix is now at 54!
+The pokemon Neutrel2 is now at -10!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(72) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 10!
+Squirtle hit Neutrel1 for 4 with attack
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 6!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 6!
+Squirtle hit Neutrel1 for 4 with attack
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 2!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 2!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 72!
+The pokemon Neutrel1 is now at 0!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(55) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 55!
+The pokemon Neutrel1 is now at 2!
+Vulpix hit Neutrel1 for 29 with attack
+The pokemon Vulpix is now at 55!
+The pokemon Neutrel1 is now at -27!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(73) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 5 with attack
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 11!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 11!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 7!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 7!
+Squirtle hit Neutrel2 for 5 with attack
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 2!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at 2!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel2 is now at -2!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(56) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Vulpix is now at 56!
+The pokemon Neutrel1 is now at 10!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 56!
+The pokemon Neutrel1 is now at 8!
+Neutrel1 failed to break the defense!
+The pokemon Vulpix is now at 56!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 30 with attack
+The pokemon Vulpix is now at 56!
+The pokemon Neutrel1 is now at -22!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(74) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 6 with attack
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 10!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 6!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 6!
+Squirtle hit Neutrel2 for 6 with attack
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 0!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(57) and Squirtle(75) starts!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 57!
+The pokemon Squirtle is now at 67!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 57!
+The pokemon Squirtle is now at 65!
+Vulpix hit Squirtle for 19 with attack
+The pokemon Vulpix is now at 57!
+The pokemon Squirtle is now at 46!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Vulpix is now at 55!
+The pokemon Squirtle is now at 46!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 55!
+The pokemon Squirtle is now at 46!
+Vulpix hit Squirtle for 19 with attack
+The pokemon Vulpix is now at 55!
+The pokemon Squirtle is now at 27!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Vulpix is now at 53!
+The pokemon Squirtle is now at 27!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 53!
+The pokemon Squirtle is now at 25!
+Vulpix hit Squirtle for 19 with attack
+The pokemon Vulpix is now at 53!
+The pokemon Squirtle is now at 6!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 53!
+The pokemon Squirtle is now at 6!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 53!
+The pokemon Squirtle is now at -2!
+The winner is Vulpix
+----------------------------------------
+Stages 3 starts!
+----------------------------------------
+The fight between Jigglypuff(36) and Neutrel2(20) starts!
+Jigglypuff hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 36!
+The pokemon Neutrel2 is now at 16!
+Jigglypuff hit Neutrel2 for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 36!
+The pokemon Neutrel2 is now at 13!
+Jigglypuff hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 36!
+The pokemon Neutrel2 is now at 9!
+Jigglypuff hit Neutrel2 for 11 with attack
+The pokemon Jigglypuff is now at 36!
+The pokemon Neutrel2 is now at -2!
+The winner is Jigglypuff
+----------------------------------------
+The fight between Charmander(70) and Neutrel1(10) starts!
+Charmander hit Neutrel1 for 16 with attack
+The pokemon Charmander is now at 70!
+The pokemon Neutrel1 is now at -6!
+The winner is Charmander
+----------------------------------------
+The fight between Jigglypuff(37) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Jigglypuff is now at 37!
+The pokemon Neutrel2 is now at 20!
+Jigglypuff hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 37!
+The pokemon Neutrel2 is now at 16!
+Jigglypuff hit Neutrel2 for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 37!
+The pokemon Neutrel2 is now at 13!
+Jigglypuff hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 37!
+The pokemon Neutrel2 is now at 9!
+Jigglypuff hit Neutrel2 for 12 with attack
+The pokemon Jigglypuff is now at 37!
+The pokemon Neutrel2 is now at -3!
+The winner is Jigglypuff
+----------------------------------------
+The fight between Charmander(71) and Neutrel1(10) starts!
+Charmander hit Neutrel1 for 17 with attack
+The pokemon Charmander is now at 71!
+The pokemon Neutrel1 is now at -7!
+The winner is Charmander
+----------------------------------------
+The fight between Jigglypuff(38) and Neutrel1(10) starts!
+Jigglypuff hit Neutrel1 for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 38!
+The pokemon Neutrel1 is now at 7!
+Jigglypuff hit Neutrel1 for 13 with attack
+The pokemon Jigglypuff is now at 38!
+The pokemon Neutrel1 is now at -6!
+The winner is Jigglypuff
+----------------------------------------
+The fight between Charmander(72) and Neutrel2(20) starts!
+Charmander hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Charmander is now at 72!
+The pokemon Neutrel2 is now at 16!
+Charmander hit Neutrel2 for 18 with attack
+The pokemon Charmander is now at 72!
+The pokemon Neutrel2 is now at -2!
+The winner is Charmander
+----------------------------------------
+The fight between Jigglypuff(39) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Jigglypuff is now at 39!
+The pokemon Neutrel1 is now at 10!
+Jigglypuff hit Neutrel1 for 14 with attack
+The pokemon Jigglypuff is now at 39!
+The pokemon Neutrel1 is now at -4!
+The winner is Jigglypuff
+----------------------------------------
+The fight between Charmander(73) and Neutrel2(20) starts!
+Charmander hit Neutrel2 for 7 with Ability2
+The pokemon Charmander is now at 73!
+The pokemon Neutrel2 is now at 13!
+Neutrel2 failed to break the defense!
+The pokemon Charmander is now at 73!
+The pokemon Neutrel2 is now at 13!
+Charmander hit Neutrel2 for 4 with Ability1 and stuns him!
+The pokemon Charmander is now at 73!
+The pokemon Neutrel2 is now at 9!
+Charmander hit Neutrel2 for 19 with attack
+The pokemon Charmander is now at 73!
+The pokemon Neutrel2 is now at -10!
+The winner is Charmander
+----------------------------------------
+The fight between Jigglypuff(40) and Charmander(74) starts!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 40!
+The pokemon Charmander is now at 74!
+Charmander hit Jigglypuff for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 36!
+The pokemon Charmander is now at 74!
+Charmander hit Jigglypuff for 14 with attack
+The pokemon Jigglypuff is now at 22!
+The pokemon Charmander is now at 74!
+Jigglypuff hit Charmander for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 22!
+The pokemon Charmander is now at 70!
+Jigglypuff hit Charmander for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 22!
+The pokemon Charmander is now at 67!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 22!
+The pokemon Charmander is now at 67!
+Charmander hit Jigglypuff for 7 with Ability2
+The pokemon Jigglypuff is now at 15!
+The pokemon Charmander is now at 67!
+Jigglypuff hit Charmander for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 15!
+The pokemon Charmander is now at 64!
+Jigglypuff hit Charmander for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 15!
+The pokemon Charmander is now at 60!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 15!
+The pokemon Charmander is now at 60!
+Charmander hit Jigglypuff for 7 with Ability2
+The pokemon Jigglypuff is now at 8!
+The pokemon Charmander is now at 60!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 8!
+The pokemon Charmander is now at 60!
+Charmander hit Jigglypuff for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 4!
+The pokemon Charmander is now at 60!
+Charmander hit Jigglypuff for 14 with attack
+The pokemon Jigglypuff is now at -10!
+The pokemon Charmander is now at 60!
+The winner is Charmander
+----------------------------------------
+Stages 4 starts!
+----------------------------------------
+The fight between Vulpix(58) and Snorlax(81) starts!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 58!
+The pokemon Snorlax is now at 79!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 58!
+The pokemon Snorlax is now at 71!
+Snorlax dodged Vulpix attack
+The pokemon Vulpix is now at 58!
+The pokemon Snorlax is now at 71!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 58!
+The pokemon Snorlax is now at 71!
+Vulpix hit Snorlax for 16 with attack
+The pokemon Vulpix is now at 58!
+The pokemon Snorlax is now at 55!
+Snorlax hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 55!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 53!
+Snorlax dodged Vulpix attack
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 53!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 53!
+Vulpix hit Snorlax for 16 with attack
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 37!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 37!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 29!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 54!
+The pokemon Snorlax is now at 27!
+Snorlax hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 27!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 27!
+Vulpix hit Snorlax for 16 with attack
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 11!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 11!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 3!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at 1!
+Vulpix hit Snorlax for 16 with attack
+The pokemon Vulpix is now at 50!
+The pokemon Snorlax is now at -15!
+The winner is Vulpix
+----------------------------------------
+AttackerPepe(20) with Vulpix WON THE ADVENTURE!

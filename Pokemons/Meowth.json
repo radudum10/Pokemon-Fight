@@ -1,0 +1,23 @@
+{
+  "name": "Meowth",
+  "hp": 41,
+  "attack": 3,
+  "specialAttack": 0,
+  "def": 4,
+  "specialDef": 2,
+  "abilities": [
+    {
+      "dmg": 5,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 4
+    },
+    
+    {
+      "dmg": 1,
+      "stun": false,
+      "dodge": true,
+      "cooldown": 3
+    }
+    ]
+}

@@ -1,0 +1,543 @@
+Our adventure starts now!
+----------------------------------------
+The fight between Vulpix(48) and Squirtle(70) starts!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 48!
+The pokemon Squirtle is now at 68!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 68!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 68!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 60!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 47!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 45!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 32!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 32!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 19!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 19!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 11!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 46!
+The pokemon Squirtle is now at 9!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Vulpix is now at 44!
+The pokemon Squirtle is now at 9!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Vulpix is now at 42!
+The pokemon Squirtle is now at 9!
+Squirtle failed to break the defense!
+The pokemon Vulpix is now at 42!
+The pokemon Squirtle is now at 9!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 42!
+The pokemon Squirtle is now at 1!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Vulpix is now at 42!
+The pokemon Squirtle is now at -1!
+The winner is Vulpix
+----------------------------------------
+Stages 2 starts!
+----------------------------------------
+The fight between Bulbasaur(43) and Snorlax(65) starts!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 43!
+The pokemon Snorlax is now at 65!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 39!
+The pokemon Snorlax is now at 65!
+Bulbasaur hit Snorlax for 5 with Ability2
+The pokemon Bulbasaur is now at 39!
+The pokemon Snorlax is now at 60!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 35!
+The pokemon Snorlax is now at 60!
+Bulbasaur failed to break the defense!
+The pokemon Bulbasaur is now at 35!
+The pokemon Snorlax is now at 60!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 31!
+The pokemon Snorlax is now at 60!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 27!
+The pokemon Snorlax is now at 60!
+Bulbasaur hit Snorlax for 5 with Ability2
+The pokemon Bulbasaur is now at 27!
+The pokemon Snorlax is now at 55!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 23!
+The pokemon Snorlax is now at 55!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 23!
+The pokemon Snorlax is now at 55!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 19!
+The pokemon Snorlax is now at 55!
+Bulbasaur failed to break the defense!
+The pokemon Bulbasaur is now at 19!
+The pokemon Snorlax is now at 55!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 15!
+The pokemon Snorlax is now at 55!
+Bulbasaur hit Snorlax for 6 with Ability1
+The pokemon Bulbasaur is now at 15!
+The pokemon Snorlax is now at 49!
+Snorlax hit Bulbasaur for 4 with Ability1 and stuns him!
+The pokemon Bulbasaur is now at 11!
+The pokemon Snorlax is now at 49!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 7!
+The pokemon Snorlax is now at 49!
+Snorlax dodged Bulbasaur attack
+The pokemon Bulbasaur is now at 7!
+The pokemon Snorlax is now at 49!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at 3!
+The pokemon Snorlax is now at 49!
+Bulbasaur hit Snorlax for 6 with Ability1
+The pokemon Bulbasaur is now at 3!
+The pokemon Snorlax is now at 43!
+Snorlax hit Bulbasaur for 4 with attack
+The pokemon Bulbasaur is now at -1!
+The pokemon Snorlax is now at 43!
+The winner is Snorlax
+----------------------------------------
+Stages 3 starts!
+----------------------------------------
+The fight between Pikachu(50) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 50!
+The pokemon Neutrel1 is now at 10!
+Pikachu hit Neutrel1 for 7 with attack
+The pokemon Pikachu is now at 50!
+The pokemon Neutrel1 is now at 3!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 50!
+The pokemon Neutrel1 is now at -1!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(44) and Neutrel2(20) starts!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 44!
+The pokemon Neutrel2 is now at 15!
+Meowth hit Neutrel2 for 8 with attack
+The pokemon Meowth is now at 44!
+The pokemon Neutrel2 is now at 7!
+Neutrel2 failed to break the defense!
+The pokemon Meowth is now at 44!
+The pokemon Neutrel2 is now at 7!
+Meowth hit Neutrel2 for 8 with attack
+The pokemon Meowth is now at 44!
+The pokemon Neutrel2 is now at -1!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(51) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 20!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 14!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 10!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 4!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at 4!
+Pikachu hit Neutrel2 for 8 with attack
+The pokemon Pikachu is now at 51!
+The pokemon Neutrel2 is now at -4!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(45) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Meowth is now at 45!
+The pokemon Neutrel1 is now at 10!
+Meowth hit Neutrel1 for 1 with Ability2
+The pokemon Meowth is now at 45!
+The pokemon Neutrel1 is now at 9!
+Meowth hit Neutrel1 for 5 with Ability1
+The pokemon Meowth is now at 45!
+The pokemon Neutrel1 is now at 4!
+Meowth hit Neutrel1 for 9 with attack
+The pokemon Meowth is now at 45!
+The pokemon Neutrel1 is now at -5!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(52) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 52!
+The pokemon Neutrel1 is now at 10!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 52!
+The pokemon Neutrel1 is now at 6!
+Pikachu hit Neutrel1 for 6 with Ability1
+The pokemon Pikachu is now at 52!
+The pokemon Neutrel1 is now at 0!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(46) and Neutrel2(20) starts!
+Meowth hit Neutrel2 for 1 with Ability2
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at 19!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at 14!
+Meowth hit Neutrel2 for 10 with attack
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at 4!
+Meowth hit Neutrel2 for 1 with Ability2
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at 3!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 46!
+The pokemon Neutrel2 is now at -2!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(53) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 53!
+The pokemon Neutrel1 is now at 6!
+Pikachu hit Neutrel1 for 6 with Ability1
+The pokemon Pikachu is now at 53!
+The pokemon Neutrel1 is now at 0!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(47) and Neutrel2(20) starts!
+Meowth hit Neutrel2 for 11 with attack
+The pokemon Meowth is now at 47!
+The pokemon Neutrel2 is now at 9!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 47!
+The pokemon Neutrel2 is now at 4!
+Meowth hit Neutrel2 for 11 with attack
+The pokemon Meowth is now at 47!
+The pokemon Neutrel2 is now at -7!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(54) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 11 with attack
+The pokemon Pikachu is now at 54!
+The pokemon Neutrel1 is now at -1!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(48) and Neutrel2(20) starts!
+Meowth hit Neutrel2 for 1 with Ability2
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 19!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 14!
+Meowth hit Neutrel2 for 1 with Ability2
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 13!
+Neutrel2 failed to break the defense!
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 13!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 8!
+Neutrel2 failed to break the defense!
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at 8!
+Meowth hit Neutrel2 for 12 with attack
+The pokemon Meowth is now at 48!
+The pokemon Neutrel2 is now at -4!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(55) and Neutrel2(20) starts!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 55!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 55!
+The pokemon Neutrel2 is now at 14!
+Pikachu hit Neutrel2 for 12 with attack
+The pokemon Pikachu is now at 55!
+The pokemon Neutrel2 is now at 2!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 55!
+The pokemon Neutrel2 is now at 2!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 55!
+The pokemon Neutrel2 is now at -4!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(49) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Meowth is now at 49!
+The pokemon Neutrel1 is now at 10!
+Meowth hit Neutrel1 for 1 with Ability2
+The pokemon Meowth is now at 49!
+The pokemon Neutrel1 is now at 9!
+Neutrel1 failed to break the defense!
+The pokemon Meowth is now at 49!
+The pokemon Neutrel1 is now at 9!
+Meowth hit Neutrel1 for 13 with attack
+The pokemon Meowth is now at 49!
+The pokemon Neutrel1 is now at -4!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(56) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Neutrel1 is now at 6!
+Pikachu hit Neutrel1 for 13 with attack
+The pokemon Pikachu is now at 56!
+The pokemon Neutrel1 is now at -7!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(50) and Neutrel2(20) starts!
+Meowth hit Neutrel2 for 1 with Ability2
+The pokemon Meowth is now at 50!
+The pokemon Neutrel2 is now at 19!
+Meowth hit Neutrel2 for 5 with Ability1
+The pokemon Meowth is now at 50!
+The pokemon Neutrel2 is now at 14!
+Meowth hit Neutrel2 for 14 with attack
+The pokemon Meowth is now at 50!
+The pokemon Neutrel2 is now at 0!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(57) and Neutrel2(20) starts!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 57!
+The pokemon Neutrel2 is now at 14!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 57!
+The pokemon Neutrel2 is now at 10!
+Pikachu hit Neutrel2 for 14 with attack
+The pokemon Pikachu is now at 57!
+The pokemon Neutrel2 is now at -4!
+The winner is Pikachu
+----------------------------------------
+The fight between Meowth(51) and Neutrel1(10) starts!
+Meowth hit Neutrel1 for 1 with Ability2
+The pokemon Meowth is now at 51!
+The pokemon Neutrel1 is now at 9!
+Meowth hit Neutrel1 for 15 with attack
+The pokemon Meowth is now at 51!
+The pokemon Neutrel1 is now at -6!
+The winner is Meowth
+----------------------------------------
+The fight between Pikachu(58) and Meowth(52) starts!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 57!
+The pokemon Meowth is now at 52!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 57!
+The pokemon Meowth is now at 48!
+Pikachu hit Meowth for 6 with Ability1
+The pokemon Pikachu is now at 57!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 55!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 50!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 48!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 47!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 45!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 40!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 38!
+The pokemon Meowth is now at 42!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 37!
+The pokemon Meowth is now at 42!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 37!
+The pokemon Meowth is now at 38!
+Pikachu hit Meowth for 1 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Meowth is now at 37!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 32!
+The pokemon Meowth is now at 37!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 31!
+The pokemon Meowth is now at 37!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 29!
+The pokemon Meowth is now at 37!
+Pikachu hit Meowth for 1 with attack
+The pokemon Pikachu is now at 29!
+The pokemon Meowth is now at 36!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 29!
+The pokemon Meowth is now at 32!
+Pikachu hit Meowth for 1 with attack
+The pokemon Pikachu is now at 29!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 28!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 23!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 21!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 20!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 18!
+The pokemon Meowth is now at 31!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 13!
+The pokemon Meowth is now at 31!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 13!
+The pokemon Meowth is now at 27!
+Pikachu hit Meowth for 6 with Ability1
+The pokemon Pikachu is now at 13!
+The pokemon Meowth is now at 21!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 12!
+The pokemon Meowth is now at 21!
+Pikachu hit Meowth for 1 with attack
+The pokemon Pikachu is now at 12!
+The pokemon Meowth is now at 20!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 10!
+The pokemon Meowth is now at 20!
+Pikachu hit Meowth for 1 with attack
+The pokemon Pikachu is now at 10!
+The pokemon Meowth is now at 19!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 10!
+The pokemon Meowth is now at 15!
+Pikachu hit Meowth for 6 with Ability1
+The pokemon Pikachu is now at 10!
+The pokemon Meowth is now at 9!
+Meowth hit Pikachu for 5 with Ability1
+The pokemon Pikachu is now at 5!
+The pokemon Meowth is now at 9!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 4!
+The pokemon Meowth is now at 9!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at 2!
+The pokemon Meowth is now at 9!
+Pikachu hit Meowth for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 2!
+The pokemon Meowth is now at 5!
+Meowth hit Pikachu for 1 with Ability2
+The pokemon Pikachu is now at 1!
+The pokemon Meowth is now at 5!
+Meowth hit Pikachu for 2 with attack
+The pokemon Pikachu is now at -1!
+The pokemon Meowth is now at 5!
+The winner is Meowth
+----------------------------------------
+Stages 4 starts!
+----------------------------------------
+The fight between Vulpix(49) and Snorlax(66) starts!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 49!
+The pokemon Snorlax is now at 58!
+Snorlax dodged Vulpix attack
+The pokemon Vulpix is now at 49!
+The pokemon Snorlax is now at 58!
+Snorlax hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 58!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 58!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 56!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 56!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 48!
+Vulpix hit Snorlax for 8 with attack
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 40!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 40!
+Vulpix hit Snorlax for 8 with attack
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 32!
+Vulpix hit Snorlax for 2 with Ability2
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 30!
+Snorlax dodged Vulpix attack
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 30!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 30!
+Vulpix hit Snorlax for 8 with attack
+The pokemon Vulpix is now at 45!
+The pokemon Snorlax is now at 22!
+Snorlax hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Vulpix is now at 41!
+The pokemon Snorlax is now at 22!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 41!
+The pokemon Snorlax is now at 22!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 41!
+The pokemon Snorlax is now at 14!
+Snorlax dodged Vulpix attack
+The pokemon Vulpix is now at 41!
+The pokemon Snorlax is now at 14!
+Snorlax hit Vulpix for 4 with Ability1 and stuns him!
+The pokemon Vulpix is now at 37!
+The pokemon Snorlax is now at 14!
+Snorlax failed to break the defense!
+The pokemon Vulpix is now at 37!
+The pokemon Snorlax is now at 14!
+Vulpix hit Snorlax for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 37!
+The pokemon Snorlax is now at 6!
+Vulpix hit Snorlax for 8 with attack
+The pokemon Vulpix is now at 37!
+The pokemon Snorlax is now at -2!
+The winner is Vulpix
+----------------------------------------
+Ash(20) with Vulpix WON THE ADVENTURE!

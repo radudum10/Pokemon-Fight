@@ -1,0 +1,24 @@
+{
+  "name": "Eevee",
+  "hp": 39,
+  "attack": 0,
+  "specialAttack": 4,
+  "def": 3,
+  "specialDef": 3,
+  "abilities": [
+    {
+      "dmg": 5,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    },
+    
+    {
+      "dmg": 3,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 3
+    }
+    ]
+  
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Ash",
+    "age": 20,
+    "bag": [
+      "Vulpix",
+      "Bulbasaur",
+      "Pikachu"
+    ],
+    "items": [
+      [
+        "shield",
+        "sword",
+        "cloak"
+      ],
+      [
+        "cloak",
+        "sword",
+        "christmasTree"
+      ],
+      [
+        "cloak",
+        "vest",
+        "sword"
+      ]
+    ]
+  },
+  {
+    "name": "SadPepe",
+    "age": 30,
+    "bag": [
+      "Squirtle",
+      "Snorlax",
+      "Meowth"
+    ],
+    "items": [
+      [
+        "shield",
+        "vest",
+        "sword"
+      ],
+      [
+        "shield",
+        "cloak",
+        "christmasTree"
+      ],
+      [
+        "vitamins",
+        "sword",
+        "shield"
+      ]
+    ]
+  }
+]

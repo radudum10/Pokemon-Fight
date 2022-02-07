@@ -1,0 +1,558 @@
+Our adventure starts now!
+----------------------------------------
+The fight between Pikachu(56) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Neutrel1 is now at 6!
+Pikachu hit Neutrel1 for 23 with attack
+The pokemon Pikachu is now at 56!
+The pokemon Neutrel1 is now at -17!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(81) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 10 with attack
+The pokemon Squirtle is now at 81!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 81!
+The pokemon Neutrel2 is now at 10!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 81!
+The pokemon Neutrel2 is now at 6!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 81!
+The pokemon Neutrel2 is now at 6!
+Squirtle hit Neutrel2 for 10 with attack
+The pokemon Squirtle is now at 81!
+The pokemon Neutrel2 is now at -4!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(57) and Neutrel1(10) starts!
+Pikachu hit Neutrel1 for 24 with attack
+The pokemon Pikachu is now at 57!
+The pokemon Neutrel1 is now at -14!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(82) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at 20!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 11 with attack
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at 5!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at 5!
+Squirtle hit Neutrel2 for 11 with attack
+The pokemon Squirtle is now at 82!
+The pokemon Neutrel2 is now at -6!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(58) and Squirtle(83) starts!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 83!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 83!
+Pikachu hit Squirtle for 8 with attack
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 75!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 50!
+The pokemon Squirtle is now at 75!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 50!
+The pokemon Squirtle is now at 71!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 50!
+The pokemon Squirtle is now at 65!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 48!
+The pokemon Squirtle is now at 65!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 46!
+The pokemon Squirtle is now at 65!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 44!
+The pokemon Squirtle is now at 65!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 40!
+The pokemon Squirtle is now at 65!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 40!
+The pokemon Squirtle is now at 61!
+Pikachu hit Squirtle for 8 with attack
+The pokemon Pikachu is now at 40!
+The pokemon Squirtle is now at 53!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 36!
+The pokemon Squirtle is now at 53!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 36!
+The pokemon Squirtle is now at 47!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 36!
+The pokemon Squirtle is now at 47!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 36!
+The pokemon Squirtle is now at 43!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 36!
+The pokemon Squirtle is now at 37!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 32!
+The pokemon Squirtle is now at 37!
+Pikachu hit Squirtle for 8 with attack
+The pokemon Pikachu is now at 32!
+The pokemon Squirtle is now at 29!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 30!
+The pokemon Squirtle is now at 29!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 30!
+The pokemon Squirtle is now at 25!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 30!
+The pokemon Squirtle is now at 19!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 26!
+The pokemon Squirtle is now at 19!
+Pikachu hit Squirtle for 8 with attack
+The pokemon Pikachu is now at 26!
+The pokemon Squirtle is now at 11!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 24!
+The pokemon Squirtle is now at 11!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 24!
+The pokemon Squirtle is now at 7!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 24!
+The pokemon Squirtle is now at 1!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 20!
+The pokemon Squirtle is now at 1!
+Pikachu hit Squirtle for 8 with attack
+The pokemon Pikachu is now at 20!
+The pokemon Squirtle is now at -7!
+The winner is Pikachu
+----------------------------------------
+Stages 2 starts!
+----------------------------------------
+The fight between Jigglypuff(40) and Snorlax(84) starts!
+Snorlax hit Jigglypuff for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 36!
+The pokemon Snorlax is now at 84!
+Snorlax dodged Jigglypuff attack
+The pokemon Jigglypuff is now at 36!
+The pokemon Snorlax is now at 84!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 27!
+The pokemon Snorlax is now at 84!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 27!
+The pokemon Snorlax is now at 84!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 18!
+The pokemon Snorlax is now at 84!
+Jigglypuff hit Snorlax for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 18!
+The pokemon Snorlax is now at 80!
+Snorlax dodged Jigglypuff attack
+The pokemon Jigglypuff is now at 18!
+The pokemon Snorlax is now at 80!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 9!
+The pokemon Snorlax is now at 80!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 9!
+The pokemon Snorlax is now at 80!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 0!
+The pokemon Snorlax is now at 80!
+The winner is Snorlax
+----------------------------------------
+Stages 3 starts!
+----------------------------------------
+The fight between Squirtle(73) and Neutrel1(10) starts!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel1 is now at 8!
+Squirtle hit Neutrel1 for 4 with Ability1
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel1 is now at 4!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel1 is now at 2!
+Squirtle hit Neutrel1 for 15 with attack
+The pokemon Squirtle is now at 73!
+The pokemon Neutrel1 is now at -13!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(70) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Vulpix is now at 70!
+The pokemon Neutrel2 is now at 20!
+Vulpix hit Neutrel2 for 2 with Ability2
+The pokemon Vulpix is now at 70!
+The pokemon Neutrel2 is now at 18!
+Neutrel2 failed to break the defense!
+The pokemon Vulpix is now at 70!
+The pokemon Neutrel2 is now at 18!
+Vulpix hit Neutrel2 for 8 with Ability1 and stuns him!
+The pokemon Vulpix is now at 70!
+The pokemon Neutrel2 is now at 10!
+Vulpix hit Neutrel2 for 28 with attack
+The pokemon Vulpix is now at 70!
+The pokemon Neutrel2 is now at -18!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(74) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 14!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at 10!
+Squirtle hit Neutrel2 for 16 with attack
+The pokemon Squirtle is now at 74!
+The pokemon Neutrel2 is now at -6!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(71) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 71!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 29 with attack
+The pokemon Vulpix is now at 71!
+The pokemon Neutrel1 is now at -21!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(75) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 75!
+The pokemon Neutrel2 is now at 18!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 75!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 75!
+The pokemon Neutrel2 is now at 14!
+Squirtle hit Neutrel2 for 17 with attack
+The pokemon Squirtle is now at 75!
+The pokemon Neutrel2 is now at -3!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(72) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 72!
+The pokemon Neutrel1 is now at 8!
+Neutrel1 failed to break the defense!
+The pokemon Vulpix is now at 72!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 30 with attack
+The pokemon Vulpix is now at 72!
+The pokemon Neutrel1 is now at -22!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(76) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 76!
+The pokemon Neutrel1 is now at 10!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 76!
+The pokemon Neutrel1 is now at 8!
+Squirtle hit Neutrel1 for 18 with attack
+The pokemon Squirtle is now at 76!
+The pokemon Neutrel1 is now at -10!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(73) and Neutrel2(20) starts!
+Vulpix hit Neutrel2 for 31 with attack
+The pokemon Vulpix is now at 73!
+The pokemon Neutrel2 is now at -11!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(77) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 77!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 77!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 19 with attack
+The pokemon Squirtle is now at 77!
+The pokemon Neutrel2 is now at -3!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(74) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 74!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 32 with attack
+The pokemon Vulpix is now at 74!
+The pokemon Neutrel1 is now at -24!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(78) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 78!
+The pokemon Neutrel2 is now at 20!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 78!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 78!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 20 with attack
+The pokemon Squirtle is now at 78!
+The pokemon Neutrel2 is now at -4!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(75) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 2 with Ability2
+The pokemon Vulpix is now at 75!
+The pokemon Neutrel1 is now at 8!
+Vulpix hit Neutrel1 for 33 with attack
+The pokemon Vulpix is now at 75!
+The pokemon Neutrel1 is now at -25!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(79) and Neutrel2(20) starts!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 18!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 14!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 12!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 10!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at 8!
+Squirtle hit Neutrel2 for 21 with attack
+The pokemon Squirtle is now at 79!
+The pokemon Neutrel2 is now at -13!
+The winner is Squirtle
+----------------------------------------
+The fight between Vulpix(76) and Neutrel1(10) starts!
+Vulpix hit Neutrel1 for 34 with attack
+The pokemon Vulpix is now at 76!
+The pokemon Neutrel1 is now at -24!
+The winner is Vulpix
+----------------------------------------
+The fight between Squirtle(80) and Vulpix(77) starts!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 67!
+The pokemon Vulpix is now at 77!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Squirtle is now at 65!
+The pokemon Vulpix is now at 77!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 52!
+The pokemon Vulpix is now at 77!
+Squirtle failed to break the defense!
+The pokemon Squirtle is now at 52!
+The pokemon Vulpix is now at 77!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Squirtle is now at 44!
+The pokemon Vulpix is now at 77!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 31!
+The pokemon Vulpix is now at 77!
+Squirtle hit Vulpix for 4 with Ability1
+The pokemon Squirtle is now at 31!
+The pokemon Vulpix is now at 73!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 18!
+The pokemon Vulpix is now at 73!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Squirtle is now at 16!
+The pokemon Vulpix is now at 73!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Squirtle is now at 8!
+The pokemon Vulpix is now at 73!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at -5!
+The pokemon Vulpix is now at 73!
+The winner is Vulpix
+----------------------------------------
+Stages 4 starts!
+----------------------------------------
+The fight between Pikachu(59) and Squirtle(90) starts!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 90!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 84!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 84!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 82!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 78!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 55!
+The pokemon Squirtle is now at 76!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 51!
+The pokemon Squirtle is now at 76!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 51!
+The pokemon Squirtle is now at 74!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 74!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 70!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 68!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 68!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 66!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 66!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 62!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 60!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 60!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 49!
+The pokemon Squirtle is now at 58!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 47!
+The pokemon Squirtle is now at 58!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 45!
+The pokemon Squirtle is now at 58!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 45!
+The pokemon Squirtle is now at 54!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 45!
+The pokemon Squirtle is now at 52!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 52!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 50!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 50!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 46!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 40!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 40!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 38!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 38!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 41!
+The pokemon Squirtle is now at 32!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 32!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 28!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 26!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 26!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 24!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 20!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 37!
+The pokemon Squirtle is now at 18!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 33!
+The pokemon Squirtle is now at 18!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 33!
+The pokemon Squirtle is now at 16!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 33!
+The pokemon Squirtle is now at 16!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 33!
+The pokemon Squirtle is now at 12!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 33!
+The pokemon Squirtle is now at 10!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at 10!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at 8!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at 8!
+Pikachu hit Squirtle for 2 with attack
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at 6!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at 2!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 29!
+The pokemon Squirtle is now at -4!
+The winner is Pikachu
+----------------------------------------
+StunnerAttackerPepe(20) with Pikachu WON THE ADVENTURE!

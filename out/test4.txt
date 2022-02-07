@@ -1,0 +1,441 @@
+Our adventure starts now!
+----------------------------------------
+The fight between Pikachu(58) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 58!
+The pokemon Neutrel2 is now at 20!
+Pikachu hit Neutrel2 for 6 with Ability1
+The pokemon Pikachu is now at 58!
+The pokemon Neutrel2 is now at 14!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 58!
+The pokemon Neutrel2 is now at 14!
+Pikachu hit Neutrel2 for 12 with attack
+The pokemon Pikachu is now at 58!
+The pokemon Neutrel2 is now at 2!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 58!
+The pokemon Neutrel2 is now at -2!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(67) and Neutrel1(10) starts!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 67!
+The pokemon Neutrel1 is now at 8!
+Squirtle hit Neutrel1 for 4 with Ability1
+The pokemon Squirtle is now at 67!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 67!
+The pokemon Neutrel1 is now at 4!
+Squirtle hit Neutrel1 for 9 with attack
+The pokemon Squirtle is now at 67!
+The pokemon Neutrel1 is now at -5!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(59) and Neutrel2(20) starts!
+Pikachu hit Neutrel2 for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 59!
+The pokemon Neutrel2 is now at 16!
+Pikachu hit Neutrel2 for 13 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Neutrel2 is now at 3!
+Neutrel2 failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Neutrel2 is now at 3!
+Pikachu hit Neutrel2 for 13 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Neutrel2 is now at -10!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(68) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 68!
+The pokemon Neutrel1 is now at 10!
+Squirtle hit Neutrel1 for 4 with Ability1
+The pokemon Squirtle is now at 68!
+The pokemon Neutrel1 is now at 6!
+Neutrel1 failed to break the defense!
+The pokemon Squirtle is now at 68!
+The pokemon Neutrel1 is now at 6!
+Squirtle hit Neutrel1 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 68!
+The pokemon Neutrel1 is now at 4!
+Squirtle hit Neutrel1 for 10 with attack
+The pokemon Squirtle is now at 68!
+The pokemon Neutrel1 is now at -6!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(60) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 60!
+The pokemon Neutrel1 is now at 10!
+Pikachu hit Neutrel1 for 6 with Ability1
+The pokemon Pikachu is now at 60!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 60!
+The pokemon Neutrel1 is now at 4!
+Pikachu hit Neutrel1 for 14 with attack
+The pokemon Pikachu is now at 60!
+The pokemon Neutrel1 is now at -10!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(69) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 69!
+The pokemon Neutrel2 is now at 20!
+Squirtle hit Neutrel2 for 11 with attack
+The pokemon Squirtle is now at 69!
+The pokemon Neutrel2 is now at 9!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 69!
+The pokemon Neutrel2 is now at 9!
+Squirtle hit Neutrel2 for 11 with attack
+The pokemon Squirtle is now at 69!
+The pokemon Neutrel2 is now at -2!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(61) and Neutrel1(10) starts!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 61!
+The pokemon Neutrel1 is now at 10!
+Pikachu hit Neutrel1 for 6 with Ability1
+The pokemon Pikachu is now at 61!
+The pokemon Neutrel1 is now at 4!
+Neutrel1 failed to break the defense!
+The pokemon Pikachu is now at 61!
+The pokemon Neutrel1 is now at 4!
+Pikachu hit Neutrel1 for 15 with attack
+The pokemon Pikachu is now at 61!
+The pokemon Neutrel1 is now at -11!
+The winner is Pikachu
+----------------------------------------
+The fight between Squirtle(70) and Neutrel2(20) starts!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 20!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 16!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 16!
+Squirtle hit Neutrel2 for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 14!
+Squirtle hit Neutrel2 for 4 with Ability1
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 10!
+Neutrel2 failed to break the defense!
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at 10!
+Squirtle hit Neutrel2 for 12 with attack
+The pokemon Squirtle is now at 70!
+The pokemon Neutrel2 is now at -2!
+The winner is Squirtle
+----------------------------------------
+The fight between Pikachu(62) and Squirtle(71) starts!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 62!
+The pokemon Squirtle is now at 67!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 62!
+The pokemon Squirtle is now at 64!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 62!
+The pokemon Squirtle is now at 64!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 62!
+The pokemon Squirtle is now at 58!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 58!
+The pokemon Squirtle is now at 58!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 58!
+The pokemon Squirtle is now at 54!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 58!
+The pokemon Squirtle is now at 51!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 58!
+The pokemon Squirtle is now at 51!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 58!
+The pokemon Squirtle is now at 48!
+Squirtle hit Pikachu for 2 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 48!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 44!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 41!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 41!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 35!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 35!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 31!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 28!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 28!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 22!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 18!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 56!
+The pokemon Squirtle is now at 15!
+Squirtle hit Pikachu for 4 with Ability1
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 15!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 12!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 12!
+Pikachu hit Squirtle for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 8!
+Pikachu hit Squirtle for 6 with Ability1
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 2!
+Squirtle failed to break the defense!
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at 2!
+Pikachu hit Squirtle for 3 with attack
+The pokemon Pikachu is now at 52!
+The pokemon Squirtle is now at -1!
+The winner is Pikachu
+----------------------------------------
+Stages 2 starts!
+----------------------------------------
+The fight between Jigglypuff(48) and Snorlax(73) starts!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 39!
+The pokemon Snorlax is now at 73!
+Snorlax dodged Jigglypuff attack
+The pokemon Jigglypuff is now at 39!
+The pokemon Snorlax is now at 73!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 30!
+The pokemon Snorlax is now at 73!
+Jigglypuff hit Snorlax for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 30!
+The pokemon Snorlax is now at 69!
+Jigglypuff hit Snorlax for 3 with Ability2 and stuns him!
+The pokemon Jigglypuff is now at 30!
+The pokemon Snorlax is now at 66!
+Snorlax dodged Jigglypuff attack
+The pokemon Jigglypuff is now at 30!
+The pokemon Snorlax is now at 66!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 21!
+The pokemon Snorlax is now at 66!
+Jigglypuff failed to break the defense!
+The pokemon Jigglypuff is now at 21!
+The pokemon Snorlax is now at 66!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at 12!
+The pokemon Snorlax is now at 66!
+Jigglypuff hit Snorlax for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 12!
+The pokemon Snorlax is now at 62!
+Snorlax dodged Jigglypuff attack
+The pokemon Jigglypuff is now at 12!
+The pokemon Snorlax is now at 62!
+Snorlax hit Jigglypuff for 4 with Ability1 and stuns him!
+The pokemon Jigglypuff is now at 8!
+The pokemon Snorlax is now at 62!
+Snorlax hit Jigglypuff for 9 with attack
+The pokemon Jigglypuff is now at -1!
+The pokemon Snorlax is now at 62!
+The winner is Snorlax
+----------------------------------------
+Stages 3 starts!
+----------------------------------------
+The fight between Squirtle(79) and Vulpix(67) starts!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Squirtle is now at 77!
+The pokemon Vulpix is now at 67!
+Squirtle hit Vulpix for 2 with Ability2 and stuns him!
+The pokemon Squirtle is now at 77!
+The pokemon Vulpix is now at 65!
+Squirtle failed to break the defense!
+The pokemon Squirtle is now at 77!
+The pokemon Vulpix is now at 65!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Squirtle is now at 69!
+The pokemon Vulpix is now at 65!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 56!
+The pokemon Vulpix is now at 65!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Squirtle is now at 54!
+The pokemon Vulpix is now at 65!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 41!
+The pokemon Vulpix is now at 65!
+Squirtle hit Vulpix for 4 with Ability1
+The pokemon Squirtle is now at 41!
+The pokemon Vulpix is now at 61!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Squirtle is now at 33!
+The pokemon Vulpix is now at 61!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at 20!
+The pokemon Vulpix is now at 61!
+Squirtle failed to break the defense!
+The pokemon Squirtle is now at 20!
+The pokemon Vulpix is now at 61!
+Vulpix hit Squirtle for 2 with Ability2
+The pokemon Squirtle is now at 18!
+The pokemon Vulpix is now at 61!
+Squirtle failed to break the defense!
+The pokemon Squirtle is now at 18!
+The pokemon Vulpix is now at 61!
+Vulpix hit Squirtle for 8 with Ability1 and stuns him!
+The pokemon Squirtle is now at 10!
+The pokemon Vulpix is now at 61!
+Vulpix hit Squirtle for 13 with attack
+The pokemon Squirtle is now at -3!
+The pokemon Vulpix is now at 61!
+The winner is Vulpix
+----------------------------------------
+Stages 4 starts!
+----------------------------------------
+The fight between Pikachu(63) and Snorlax(74) starts!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 70!
+Pikachu hit Snorlax for 6 with Ability1
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 64!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 64!
+Snorlax dodged Pikachu attack
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 64!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 64!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 60!
+Pikachu hit Snorlax for 6 with Ability1
+The pokemon Pikachu is now at 63!
+The pokemon Snorlax is now at 54!
+Snorlax hit Pikachu for 4 with Ability1 and stuns him!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 54!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 50!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 48!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 48!
+Pikachu hit Snorlax for 6 with Ability1
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 42!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 42!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 40!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 40!
+Snorlax dodged Pikachu attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 40!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 40!
+Pikachu hit Snorlax for 6 with Ability1
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 34!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 34!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 32!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 28!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 26!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 26!
+Snorlax dodged Pikachu attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 26!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 26!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 59!
+The pokemon Snorlax is now at 24!
+Snorlax hit Pikachu for 4 with Ability1 and stuns him!
+The pokemon Pikachu is now at 55!
+The pokemon Snorlax is now at 24!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 55!
+The pokemon Snorlax is now at 20!
+Pikachu hit Snorlax for 6 with Ability1
+The pokemon Pikachu is now at 55!
+The pokemon Snorlax is now at 14!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 55!
+The pokemon Snorlax is now at 14!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 55!
+The pokemon Snorlax is now at 12!
+Snorlax hit Pikachu for 4 with Ability1 and stuns him!
+The pokemon Pikachu is now at 51!
+The pokemon Snorlax is now at 12!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 51!
+The pokemon Snorlax is now at 8!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 51!
+The pokemon Snorlax is now at 6!
+Snorlax failed to break the defense!
+The pokemon Pikachu is now at 51!
+The pokemon Snorlax is now at 6!
+Snorlax dodged Pikachu attack
+The pokemon Pikachu is now at 51!
+The pokemon Snorlax is now at 6!
+Snorlax hit Pikachu for 4 with Ability1 and stuns him!
+The pokemon Pikachu is now at 47!
+The pokemon Snorlax is now at 6!
+Pikachu hit Snorlax for 4 with Ability2 and stuns him!
+The pokemon Pikachu is now at 47!
+The pokemon Snorlax is now at 2!
+Pikachu hit Snorlax for 2 with attack
+The pokemon Pikachu is now at 47!
+The pokemon Snorlax is now at 0!
+The winner is Pikachu
+----------------------------------------
+StunnerDefenderPepe(20) with Pikachu WON THE ADVENTURE!

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "PepeDodger",
+    "age": 20,
+    "bag": [
+      "Meowth",
+      "Vulpix",
+      "Snorlax"
+    ],
+    "items": [
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ],
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ],
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ]
+    ]
+  },
+  {
+    "name": "SadPepe",
+    "age": 30,
+    "bag": [
+      "Pikachu",
+      "Psyduck",
+      "Eevee",
+    ],
+    "items": [
+      [
+        "ward",
+        "vitamins",
+        "sword"
+      ],
+      [
+        "ward",
+        "vitamins",
+        "sword"
+      ],
+      [
+        "shield",
+        "vest",
+        "sword"
+      ]
+    ]
+  }
+]

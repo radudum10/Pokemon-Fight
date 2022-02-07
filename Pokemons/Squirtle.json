@@ -1,0 +1,22 @@
+{
+  "name": "Squirtle",
+  "hp": 60,
+  "attack": 0,
+  "specialAttack": 3,
+  "def": 5,
+  "specialDef": 5,
+  "abilities": [
+    {
+      "dmg": 4,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    },
+    {
+      "dmg": 2,
+      "stun": true,
+      "dodge": false,
+      "cooldown": 2
+    }
+  ]
+}

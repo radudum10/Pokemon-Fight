@@ -1,0 +1,54 @@
+[
+  {
+    "name": "PepeTank",
+    "age": 20,
+    "bag": [
+      "Snorlax",
+      "Squirtle",
+      "Charmander"
+    ],
+    "items": [
+      [
+        "vest",
+        "vitamins",
+        "cloak"
+      ],
+      [
+        "vest",
+        "vitamins",
+        "cloak"
+      ],
+      [
+        "vest",
+        "vitamins",
+        "cloak"
+      ]
+    ]
+  },
+  {
+    "name": "PepeSkinny",
+    "age": 30,
+    "bag": [
+      "Pikachu",
+      "Jigglypuff",
+      "Vulpix"
+    ],
+    "items": [
+      [
+        "vitamins",
+        "vest",
+        "sword"
+      ],
+      [
+        "vitamins",
+        "vest",
+        "sword"
+      ],
+      [
+        "vitamins",
+        "vest",
+        "sword"
+      ]
+    ]
+  }
+]

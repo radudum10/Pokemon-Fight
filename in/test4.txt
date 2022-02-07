@@ -1,0 +1,54 @@
+[
+  {
+    "name": "StunnerDefenderPepe",
+    "age": 20,
+    "bag": [
+      "Pikachu",
+      "Jigglypuff",
+      "Squirtle"
+    ],
+    "items": [
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ],
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ],
+      [
+        "shield",
+        "vest",
+        "cloak"
+      ]
+    ]
+  },
+  {
+    "name": "SadPepe",
+    "age": 30,
+    "bag": [
+      "Squirtle",
+      "Snorlax",
+      "Vulpix"
+    ],
+    "items": [
+      [
+        "ward",
+        "vitamins",
+        "sword"
+      ],
+      [
+        "ward",
+        "vitamins",
+        "sword"
+      ],
+      [
+        "shield",
+        "vest",
+        "sword"
+      ]
+    ]
+  }
+]

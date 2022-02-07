@@ -1,0 +1,24 @@
+{
+  "name": "Bulbasaur",
+  "hp": 42,
+  "attack": 0,
+  "specialAttack": 5,
+  "def": 3,
+  "specialDef": 1,
+  "abilities": [
+    {
+      "dmg": 6,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 4
+    },
+    
+    {
+       "dmg": 5,
+      "stun": false,
+      "dodge": false,
+      "cooldown": 3
+    }
+    ]
+  
+}
